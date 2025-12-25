@@ -1,5 +1,5 @@
 {
-    "name": "rapipbailyes",
+    "name": "AboutVils",
     "version": "3.0.4",
     "description": "WhatsApp Bailyes New",
     "keywords": [
@@ -12,12 +12,12 @@
         "botwa",
         "improve"
     ],
-    "homepage": "https://github.com/rapipppganzz/rapipbailyes",
+    "homepage": "https://github.com/ardh8/AboutVils",
     "repository": {
-        "url": "https://github.com/rapipppganzz/rapipbailyes"
+        "url": "https://github.com/ardh8/AboutVils"
     },
     "license": "MIT",
-    "author": "rapipppganzz",
+    "author": "AboutVils""
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
